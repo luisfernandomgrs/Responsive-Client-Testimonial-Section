@@ -6,3 +6,9 @@
 <code>
   https://www.youtube.com/watch?v=E7mGqt7v3Uc
 </code>
+
+<p>Usaremos recursos como</p>
+<ul>
+  <li>Swiper is the most modern free mobile touch slider</li>
+  <code>https://swiperjs.com/</code>
+</ul>
