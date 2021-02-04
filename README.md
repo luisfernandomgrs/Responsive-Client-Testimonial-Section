@@ -12,3 +12,7 @@
   <li>Swiper is the most modern free mobile touch slider</li>
   <code>https://swiperjs.com/</code>
 </ul>
+
+<h2>Como ficará nosso projeto</h2>
+
+![image](https://user-images.githubusercontent.com/72364037/106840550-2609fa80-667f-11eb-9cea-7a76703b6bdd.png)
