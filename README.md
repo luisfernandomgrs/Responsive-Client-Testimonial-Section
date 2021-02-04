@@ -7,15 +7,16 @@
   https://www.youtube.com/watch?v=E7mGqt7v3Uc
 </code>
 
-<p>Não esqueça que recomendo consultar também o git do Swiper, ok,</p>
-
-<code>https://github.com/nolimits4web/swiper</code>
-
 <p>Usaremos recursos como</p>
 <ul>
   <li>Swiper is the most modern free mobile touch slider</li>
   <code>https://swiperjs.com/</code>
 </ul>
+
+<p>Não esqueça que recomendo consultar também o git do Swiper, ok,</p>
+
+<code>https://github.com/nolimits4web/swiper</code>
+
 
 <h2>Como ficará nosso projeto</h2>
 
