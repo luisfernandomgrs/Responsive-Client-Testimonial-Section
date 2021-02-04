@@ -13,7 +13,7 @@
   <code>https://swiperjs.com/</code>
 </ul>
 
-<p>Não esqueça que recomendo consultar também o git do Swiper, ok,</p>
+<p>Não esqueça que recomendo consultar também o git do Swiper, :)</p>
 
 <code>https://github.com/nolimits4web/swiper</code>
 
