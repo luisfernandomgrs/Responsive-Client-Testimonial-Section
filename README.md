@@ -20,6 +20,8 @@
 
 <h2>Como ficará nosso projeto</h2>
 
+[Projeto Principal](https://luisfernandomgrs.github.io/Responsive-Client-Testimonial-Section/index.html)
+
 ![image](https://user-images.githubusercontent.com/72364037/106840550-2609fa80-667f-11eb-9cea-7a76703b6bdd.png)
 
 <h2>index-model.html - Outro modelo</h2>
